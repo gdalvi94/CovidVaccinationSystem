@@ -23,7 +23,7 @@
 + Here is a instruction guide for NetBeans installation https://www3.ntu.edu.sg/home/ehchua/programming/howto/netbeans_howto.html
 
 ## How to Use this-
-+ Clone the git repository https://github.com/gayatridalvi09/CovidVaccinationSystem.git
++ Clone the git repository https://github.com/gdalvi94/CovidVaccinationSystem.git
 + Open the src/main/java , In UI package the JFrame windows present and for class -Model package is present,Edit and make changes as per requirement.
 + Run the server on your local machine
 + Test and deploy the changes.
